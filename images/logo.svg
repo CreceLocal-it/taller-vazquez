@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="110" viewBox="0 0 440 110">
+  <title>Taller Vázquez</title>
+  <defs>
+    <pattern id="cuadros" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#ffffff"/>
+      <rect width="8" height="8" fill="#11141a"/>
+      <rect x="8" y="8" width="8" height="8" fill="#11141a"/>
+    </pattern>
+  </defs>
+  <g transform="skewX(-12)">
+    <rect x="22" y="14" width="64" height="64" fill="url(#cuadros)" stroke="#2f5bff" stroke-width="4"/>
+    <rect x="22" y="84" width="64" height="10" fill="#2f5bff"/>
+  </g>
+  <text x="104" y="40" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-style="italic" font-size="24" letter-spacing="7" fill="#2f5bff">TALLER</text>
+  <text x="100" y="92" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-style="italic" font-size="50" letter-spacing="1" fill="#ffffff">VÁZQUEZ</text>
+</svg>
